@@ -127,6 +127,3 @@ export function add(numbersStr) {
 function escapeRegExp(string) {
     return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
-
-
-
